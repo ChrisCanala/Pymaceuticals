@@ -1,0 +1,2 @@
+For the Quartiles, Outlier, Boxplots calculation section of the homework as well as the correlation regeression I was having issues getting the code formatted correctly and getting the responses and used the links below for guidance.
+https://github.com/amatutuwaa/Pymaceuticals/blob/main/Pymaceuticals.ipynb and https://github.com/MuratCKoc/Pymaceuticals/blob/master/Pymaceuticals/pymaceuticals_starter.ipynb
